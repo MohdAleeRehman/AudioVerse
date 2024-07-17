@@ -41,11 +41,10 @@ AudioVerse is a Flutter application for listening to audiobooks. It features use
    flutter pub get
 
 3. Set up Firebase:
-
-a. Go to the Firebase Console and create a new project.
-b. Add an Android/iOS app to your Firebase project.
-c. Download the google-services.json (for Android) and GoogleService-Info.plist (for iOS) files and place them in the respective directories in your Flutter project.
-d. Enable Firebase Authentication and Firestore in your Firebase project.
+- Go to the Firebase Console and create a new project.
+- Add an Android/iOS app to your Firebase project.
+- Download the google-services.json (for Android) and GoogleService-Info.plist (for iOS) files and place them in the respective directories in your Flutter project.
+- Enable Firebase Authentication and Firestore in your Firebase project.
 
 5. Run the app:
    ```sh
