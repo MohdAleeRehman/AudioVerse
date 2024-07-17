@@ -33,7 +33,7 @@ AudioVerse is a Flutter application for listening to audiobooks. It features use
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/audioverse.git
+   git clone https://github.com/MohdAleeRehman/AudioVerse.git
    cd audioverse
 
 2. Install dependencies:
